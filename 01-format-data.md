@@ -136,5 +136,5 @@ An excellent reference, in particular with regard to R scripting is
 
 <!-- *Instructors see notes in 'instructors_notes.md' on this exercise.* -->
 
-Previous: [Introduction](00-intro.html)
-Next: [Formatting problems](02-common-mistakes.html)
+Previous: [Introduction](00-intro.md)
+Next: [Formatting problems](02-common-mistakes.md)
