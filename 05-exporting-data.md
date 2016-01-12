@@ -95,4 +95,4 @@ worksheets in the `xls` documents.
 - **data formatting best practice STILL apply**
 - Is there really a good reason why `csv` (or similar) is not adequate?
 
-Previous: [Basic quality control and data manipulation in spreadsheets.](04-quality-control.html) Next: [Caveats of popular data and file formats.](06-data-formats-caveats.html)
+Previous: [Basic quality control and data manipulation in spreadsheets.](04-quality-control.md) Next: [Caveats of popular data and file formats.](06-data-formats-caveats.md)
