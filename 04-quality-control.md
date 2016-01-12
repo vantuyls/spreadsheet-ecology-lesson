@@ -117,4 +117,4 @@ stand out. Again, do we notice any strange values?
 It is nice to do be able to do these scans in spreadsheets, but we also can do these
 checks in a programming language like R, or in OpenRefine or SQL. 
 
-Previous:[Dates as data.](03-dates-as-data.html) Next: [Exporting data from spreadsheets.](05-exporting-data.html)
+Previous:[Dates as data.](03-dates-as-data.md) Next: [Exporting data from spreadsheets.](05-exporting-data.md)
