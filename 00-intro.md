@@ -75,6 +75,7 @@ for thinking about spreadsheets is the same.
 - How many people have used spreadsheets in their research?
 - What kind of operations do you do in spreadsheets?
 - Which ones do you think spreadsheets are good for?
+- How many people are using or think they'll be expected to use analytical software in their research (e.g. R, SAS, Matlab)?
 
 Spreadsheets encompass a lot of the things we need
 to be able to do as researchers. We can use them for:
